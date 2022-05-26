@@ -33,7 +33,7 @@ https://gasless-nft.vercel.app/
 
 ```
  git clone https://github.com/mcyos118/Gasless-transaction.git
- cd Gasless-NFT
+ cd Gasless-transaction
 ```
 
 2. Installing dependencies
