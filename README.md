@@ -32,7 +32,7 @@ https://gasless-nft.vercel.app/
 1. Clone the project repository on your local machine
 
 ```
- git clone https://github.com/AbhinavXT/Gasless-NFT.git
+ git clone [https://github.com/AbhinavXT/Gasless-NFT.git](https://github.com/mcyos118/Gasless-transaction.git)
  cd Gasless-NFT
 ```
 
